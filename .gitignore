@@ -1,0 +1,8 @@
+# elm-package generated files
+elm-stuff
+
+# REPL generated files
+repl-temp-*
+
+# Don't include the generated JS file
+elm.js
